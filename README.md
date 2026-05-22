@@ -1,4 +1,4 @@
-# Full-Stack Engineer | AI Agents • LLMs • RAG • MCP Servers
+# Senior Full-Stack Engineer | AI Agents • LLMs • RAG • MCP Servers
 
 > Building intelligent systems that combine modern full-stack engineering with AI-native architectures.
 
@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **Full-Stack Engineer** with experience designing and building scalable systems, cloud-native applications, and AI-powered platforms.
+I am a **Senior Full-Stack Engineer** with experience designing and building scalable systems, cloud-native applications, and AI-powered platforms.
 
 I specialize in bridging **traditional software engineering** with **modern AI systems**, including LLM-powered applications, agent-based workflows, and retrieval-augmented architectures.
 
