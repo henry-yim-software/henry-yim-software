@@ -67,15 +67,6 @@ I specialize in bridging **traditional software engineering** with **modern AI s
 
 ---
 
-## 🧰 Tech Stack
-
-`TypeScript` • `Python` • `C#` • `Node.js` • `.NET`  
-`React` • `Next.js` • `Azure` • `Docker` • `Kubernetes`  
-`PostgreSQL` • `MongoDB` • `Redis`  
-`LangChain` • `OpenAI APIs` • `Vector Databases`
-
----
-
 ## 🚀 Featured Work (Examples)
 
 - AI-powered SaaS platform with agent-based automation
