@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Engineer+%7C+AI+Agents+%E2%80%A2+LLMs+%E2%80%A2+RAG+%E2%80%A2+MCP+Servers)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=11A5F7&multiline=true&width=435&lines=Full-Stack+Engineer+%7C+AI+Agents+%E2%80%A2+LL;Ms+%E2%80%A2+RAG+%E2%80%A2+MCP+Servers)](https://git.io/typing-svg)
 
 > Building intelligent systems that combine modern full-stack engineering with AI-native architectures.
 
