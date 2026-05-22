@@ -94,12 +94,4 @@ I specialize in bridging **traditional software engineering** with **modern AI s
 
 ---
 
-## 📫 Contact
-
-- GitHub: [your-username](https://github.com/your-username)
-- LinkedIn: https://linkedin.com/in/your-profile
-- Email: your.email@example.com
-
----
-
 > “Engineering systems that don’t just run — they think, adapt, and scale.”
