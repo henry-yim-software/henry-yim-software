@@ -39,13 +39,13 @@ I specialize in bridging **traditional software engineering** with **modern AI s
 ## 🏗️ Full-Stack Engineering
 
 ### Frontend
-- React / Next.js applications
+- React / Next.js / React Native / Angular / Vue applications
 - Component-driven architecture
 - Responsive UI/UX design
 - State management (Redux, Zustand, Context API)
 
 ### Backend
-- Node.js / Python / .NET services
+- Node.js / Python / Go / Ruby on Rails / .NET services
 - RESTful APIs and microservices architecture
 - Authentication, authorization, and secure API design
 - Event-driven systems and background jobs
